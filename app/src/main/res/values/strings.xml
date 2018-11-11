@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDA_Assign_2_Lab1_V_Hamilton</string>
+
+
+    <string name="button_send">Send</string>
+    <string name="edit_Text">Enter a message</string>
+</resources>
